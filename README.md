@@ -4,7 +4,7 @@
 
 | 💻 주력 개발 언어 및 기술 스택 | 📈 My GitHub Stats | 🎨 Most Used Languages |
 | :--- | :---: | :---: |
-| - **주 언어**: Java, JavaScript<br>- **프레임워크**: SpringBoot<br>- **데이터베이스**: RDB(MySQL, Oracle)<br>- **기타 도구**: Git, Docker | [![Engineer-kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Engineer-kim&show_icons=true&theme=default&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Engineer-kim&layout=compact&exclude_repo=Profile_MD)](https://github.com/anuraghazra/github-readme-stats) |
+| - **주 언어**: Java, JavaScript<br>- **프레임워크**: SpringBoot, NextJs <br>- **데이터베이스**: RDB(MySQL, Oracle)<br>- **기타 도구**: Git, Docker | [![Engineer-kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Engineer-kim&show_icons=true&theme=default&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Engineer-kim&layout=compact&exclude_repo=Profile_MD)](https://github.com/anuraghazra/github-readme-stats) |
 
 <br>
 
