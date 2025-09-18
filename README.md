@@ -1,13 +1,12 @@
 <h2 align="center">
-  <a href="https://github.com/DeveloperKim"><img src="https://img.shields.io/badge/Developer_Kim_Han_Jin-who_keep_learning-blue?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Engineer-kim"><img src="https://img.shields.io/badge/Developer_Kim_Han_Jin-who_keep_learning-blue?style=for-the-badge&logo=github&logoColor=white"></a>
 </h2>
 
 <div align="center">
   <table style="width:100%; table-layout: fixed;">
     <thead>
       <tr>
-        <th align="center" style="width:50%;">📈 My GitHub Stats</th>
-        <th align="center" style="width:50%;">🎨 Most Used Languages</th>
+        <th align="center" style="width:100%;">📈 My GitHub Stats</th>
       </tr>
     </thead>
     <tbody>
@@ -15,11 +14,6 @@
         <td align="center">
           <a href="https://github.com/anuraghazra/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api?username=Engineer-kim&show_icons=true&theme=default&count_private=true" alt="Engineer-kim's GitHub stats">
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engineer-kim&layout=compact&exclude_repo=Profile_MD" alt="Top Languages">
           </a>
         </td>
       </tr>
