@@ -1,5 +1,5 @@
 <h2 align="center">
-  <a href="https://github.com/Engineer-kim"><img src="https://img.shields.io/badge/Developer_Kim_Han_Jin-who_keep_learning-blue?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Engineer-kim"><img src="https://img.shields.io/badge/Developer_Kim_Han_Jin-who_keep_learning & implementing_into_projects-blue?style=for-the-badge&logo=github&logoColor=white"></a>
 </h2>
 
 <div align="center">
