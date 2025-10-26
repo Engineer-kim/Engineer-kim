@@ -45,7 +45,7 @@
   <table style="width:100%;">
     <tr>
       <td align="center">개인 프로젝트(쇼핑몰 프로젝트) (https://www.notion.so/14ae4b5d8d44807f9da2d169870af736) <br/>
-      쇼핑몰 백 오피스  <br/>  (https://www.notion.so/14ae4b5d8d44807f9da2d169870af736)</td>
+      쇼핑몰 백 오피스  <br/>  (https://pumped-judo-47a.notion.site/298e4b5d8d4480879ca7d3efba0aa048)</td>
       <td align="center">기술블로그 (https://velog.io/@ddang0103/posts)</td>
     </tr>
   </table>
