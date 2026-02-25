@@ -1,28 +1,6 @@
 <h2 align="center">
   <a href="https://github.com/Engineer-kim"><img src="https://img.shields.io/badge/Developer_Kim_Han_Jin-who_keep_learning & implementing_into_projects-blue?style=for-the-badge&logo=github&logoColor=white"></a>
 </h2>
-
-<div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th>📈 My GitHub Stats</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=Engineer-kim&show_icons=true&theme=default&count_private=true" alt="Engineer-kim's GitHub stats">
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
----
-
 <div align="center">
   
 ## ✨ Studying Stack...
