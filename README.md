@@ -38,7 +38,7 @@
   
 ## 🔗 Project & Blog Links
   
-| 구분 | 링크 |
+| 프로젝트 명 | 관련 링크 |
 | :---: | :---: |
 | **개인 프로젝트(쇼핑몰)** | <a href="https://www.notion.so/14ae4b5d8d44807f9da2d169870af736"><img src="https://img.shields.io/badge/쇼핑몰 기획/개발 노션-000000?style=for-the-badge&logo=notion&logoColor=white"></a> |
 | **쇼핑몰 백 오피스** | <a href="https://pumped-judo-47a.notion.site/298e4b5d8d4480879ca7d3efba0aa048"><img src="https://img.shields.io/badge/백오피스 노션-000000?style=for-the-badge&logo=notion&logoColor=white"></a> |
