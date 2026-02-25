@@ -42,6 +42,21 @@
 ---
 
 <div align="center">
+
+## 💼 Work Experience
+
+| 기간 | 프로젝트 | 직무 및 주요 업무 |
+| :--- | :--- | :--- |
+| **25.01 ~ 25.05 ** | • 마이데이터 2.0 고도화 <br>• 사용 기술: Java, Spring Boot, Go, Gin, Oracle | 벡엔드 개발
+| **22.03 - 23.07 ** | • 오케이 케쉬벡 앱내 개발 <br> • 사용 기술: Java, koltin, Spring Boot, Vue, React, Js, Oracle, Mybatis, JPA, Jenkins | 벡엔드, 프론트엔드 개발, 배포
+| **21.08 - 22.03 ** | • 공공기관 벡오피스 개발<br> • 사용 기술: Java, Spring Boot, Js, MySql, Mybatis | 벡엔드 개발
+</div>
+
+<br>
+
+---
+
+<div align="center">
   
 ## 🔗 Project & Blog Links
   
