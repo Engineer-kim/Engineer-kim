@@ -82,7 +82,8 @@
               <a href="https://cvs-event.streamlit.app/"><img src="https://img.shields.io/badge/APP_LINK-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
               <br>
               <br>
-              <a href="여기에_노션_링크_입력"><img src="https://img.shields.io/badge/PROJECT_NOTION-000000?style=for-the-badge&logo=notion&logoColor=white" style="margin-top:5px;"></a>
+              <a href="https://www.notion.so/Team-Project-314e4b5d8d448099b178cd6267f38de4">
+                <img src="https://img.shields.io/badge/PROJECT_NOTION-000000?style=for-the-badge&logo=notion&logoColor=white" style="margin-top:5px;"></a>
             </td>
           </tr>
           </tbody>
