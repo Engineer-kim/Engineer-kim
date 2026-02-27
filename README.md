@@ -79,7 +79,7 @@
           <tr>
             <td align="center" style="padding: 10px;"><b>편의점 행사 비교</b></td>
             <td align="center" style="padding: 10px;">
-              <a href="https://kimhamm-cvs-project.hf.space/"><img src="https://img.shields.io/badge/APP_LINK-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
+              <a href="https://royal-keriann-secretdd-ca3ddcb0.koyeb.app/"><img src="https://img.shields.io/badge/APP_LINK-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
               <br>
               <br>
               <a href="https://www.notion.so/Team-Project-314e4b5d8d448099b178cd6267f38de4">
