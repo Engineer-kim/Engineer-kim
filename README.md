@@ -43,5 +43,6 @@
 | **개인 프로젝트(쇼핑몰)** | <a href="https://www.notion.so/14ae4b5d8d44807f9da2d169870af736"><img src="https://img.shields.io/badge/쇼핑몰 기획/개발 노션-000000?style=for-the-badge&logo=notion&logoColor=white"></a> |
 | **쇼핑몰 백 오피스** | <a href="https://pumped-judo-47a.notion.site/298e4b5d8d4480879ca7d3efba0aa048"><img src="https://img.shields.io/badge/백오피스 노션-000000?style=for-the-badge&logo=notion&logoColor=white"></a> |
 | **기술 블로그** | <a href="https://velog.io/@ddang0103/posts"><img src="https://img.shields.io/badge/Velog_기술_블로그-20C997?style=for-the-badge&logo=velog&logoColor=white"></a> |
+| **팀 프로젝트** | <a href="https://cvs-event.streamlit.app/"><img src="https://img.shields.io/badge/편의점_행사_비교-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a> |
 
 </div>
