@@ -35,14 +35,60 @@
 ---
 
 <div align="center">
-  
+
 ## 🔗 Project & Blog Links
-  
-| 프로젝트 명 | 관련 링크 |
-| :---: | :---: |
-| **개인 프로젝트(쇼핑몰)** | <a href="https://www.notion.so/14ae4b5d8d44807f9da2d169870af736"><img src="https://img.shields.io/badge/쇼핑몰 기획/개발 노션-000000?style=for-the-badge&logo=notion&logoColor=white"></a> |
-| **쇼핑몰 백 오피스** | <a href="https://pumped-judo-47a.notion.site/298e4b5d8d4480879ca7d3efba0aa048"><img src="https://img.shields.io/badge/백오피스 노션-000000?style=for-the-badge&logo=notion&logoColor=white"></a> |
-| **기술 블로그** | <a href="https://velog.io/@ddang0103/posts"><img src="https://img.shields.io/badge/Velog_기술_블로그-20C997?style=for-the-badge&logo=velog&logoColor=white"></a> |
-| **팀 프로젝트** | <a href="https://cvs-event.streamlit.app/"><img src="https://img.shields.io/badge/편의점_행사_비교-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a> |
+
+<table style="margin-left: auto; margin-right: auto; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top;">
+      <table border="1">
+        <thead>
+          <tr>
+            <th align="center">프로젝트 명</th>
+            <th align="center">관련 링크</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center"><b>개인 프로젝트(쇼핑몰)</b></td>
+            <td align="center"><a href="https://www.notion.so/14ae4b5d8d44807f9da2d169870af736"><img src="https://img.shields.io/badge/쇼핑몰 기획/개발 노션-000000?style=for-the-badge&logo=notion&logoColor=white"></a></td>
+          </tr>
+          <tr>
+            <td align="center"><b>쇼핑몰 백 오피스</b></td>
+            <td align="center"><a href="https://pumped-judo-47a.notion.site/298e4b5d8d4480879ca7d3efba0aa048"><img src="https://img.shields.io/badge/백오피스 노션-000000?style=for-the-badge&logo=notion&logoColor=white"></a></td>
+          </tr>
+          <tr>
+            <td align="center"><b>기술 블로그</b></td>
+            <td align="center"><a href="https://velog.io/@ddang0103/posts"><img src="https://img.shields.io/badge/Velog_기술_블로그-20C997?style=for-the-badge&logo=velog&logoColor=white"></a></td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <table border="1">
+        <thead>
+          <tr>
+            <th colspan="2" align="center" style="padding: 5px;">팀 프로젝트</th>
+          </tr>
+          <tr>
+            <th align="center" width="150">프로젝트 명</th>
+            <th align="center" width="150">관련 링크</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="center" style="padding: 10px;"><b>편의점 행사 비교</b></td>
+            <td align="center" style="padding: 10px;">
+              <a href="https://cvs-event.streamlit.app/"><img src="https://img.shields.io/badge/APP_LINK-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
+              <br>
+              <br>
+              <a href="여기에_노션_링크_입력"><img src="https://img.shields.io/badge/PROJECT_NOTION-000000?style=for-the-badge&logo=notion&logoColor=white" style="margin-top:5px;"></a>
+            </td>
+          </tr>
+          </tbody>
+      </table>
+    </td>
+  </tr>
+</table>
 
 </div>
