@@ -12,6 +12,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Agent / LLM](https://img.shields.io/badge/Agent_/_LLM-8A2BE2?style=flat-square&logo=artificialintelligence&logoColor=white)
 
 </div>
 
