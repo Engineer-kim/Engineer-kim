@@ -24,7 +24,7 @@
 
 ## 💼 Work Experience
 
-| 기간 | 프로젝트 | 직무 및 주요 업무 |
+| Period | Project | Description |
 | :--- | :--- | :--- |
 | 25.01 ~ 25.05 | • 마이데이터 2.0 고도화 개발 <br>• 사용 기술: Java, Spring Boot, Go, Gin, Oracle | 벡엔드 개발
 | 22.03 - 23.07 | • 오케이 케쉬벡 앱내 개발 & 관련 어플리케이션 개발 <br> • 사용 기술: Java, koltin, Spring Boot, Vue, React, Js, Oracle, Mybatis, JPA, Jenkins | 풀스택, 배포, DB설계,운영
@@ -45,21 +45,21 @@
       <table border="1">
         <thead>
           <tr>
-            <th align="center">프로젝트 명</th>
-            <th align="center">관련 링크</th>
+            <th align="center">Project</th>
+            <th align="center">Link</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td align="center"><b>개인 프로젝트(쇼핑몰)</b></td>
+            <td align="center"><b>ShoppingMall</b></td>
             <td align="center"><a href="https://www.notion.so/14ae4b5d8d44807f9da2d169870af736"><img src="https://img.shields.io/badge/쇼핑몰 기획/개발 노션-000000?style=for-the-badge&logo=notion&logoColor=white"></a></td>
           </tr>
           <tr>
-            <td align="center"><b>쇼핑몰 백 오피스</b></td>
+            <td align="center"><b>ShoppingMall BackOffice</b></td>
             <td align="center"><a href="https://pumped-judo-47a.notion.site/298e4b5d8d4480879ca7d3efba0aa048"><img src="https://img.shields.io/badge/백오피스 노션-000000?style=for-the-badge&logo=notion&logoColor=white"></a></td>
           </tr>
           <tr>
-            <td align="center"><b>기술 블로그</b></td>
+            <td align="center"><b>Blog</b></td>
             <td align="center"><a href="https://velog.io/@ddang0103/posts"><img src="https://img.shields.io/badge/Velog_기술_블로그-20C997?style=for-the-badge&logo=velog&logoColor=white"></a></td>
           </tr>
         </tbody>
@@ -69,11 +69,11 @@
       <table border="1">
         <thead>
           <tr>
-            <th colspan="2" align="center" style="padding: 5px;">팀 프로젝트</th>
+            <th colspan="2" align="center" style="padding: 5px;">Team Project</th>
           </tr>
           <tr>
-            <th align="center" width="150">프로젝트 명</th>
-            <th align="center" width="260">관련 링크</th>
+            <th align="center" width="150">Project</th>
+            <th align="center" width="260">Link</th>
           </tr>
         </thead>
         <tbody>
