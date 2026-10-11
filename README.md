@@ -27,7 +27,7 @@
 | Period | Project | Description |
 | :--- | :--- | :--- |
 | 25.01 ~ 25.05 | • 마이데이터 2.0 고도화 개발 <br>• 사용 기술: Java, Spring Boot, Go, Gin, Oracle | 벡엔드 개발
-| 22.03 - 23.07 | • 오케이 케쉬벡 앱내 개발 & 관련 어플리케이션 개발 <br> • 사용 기술: Java, koltin, Spring Boot, Vue, React, Js, Oracle, Mybatis, JPA, Jenkins | 풀스택, 배포, DB설계,운영
+| 22.03 - 23.07 | • 오케이 케쉬벡 앱내 개발 & 관련 어플리케이션 개발 <br> • 사용 기술: Java, koltin, Spring Boot, Vue, React, Js, Oracle, Mybatis, JPA, Jenkins | 풀스택, 배포, 인프라설계,운영
 | 21.08 - 22.03 | • 공공기관 벡오피스 개발<br> • 사용 기술: Java, Spring Boot, Js, MySql, Mybatis | 벡엔드 개발
 </div>
 
